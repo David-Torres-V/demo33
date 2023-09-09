@@ -1,4 +1,4 @@
-| User tasks                                      || Consumidor                      || Cliente                         |
+| User tasks                                      || Consumidor                      || Cliente         |
 |-------------------|------------|-------------|------------|-------------|
 |                                                 | Frecuencia | Importancia | Frecuencia | Importancia |
 |-------------------------------------------------|------------|-------------|------------|-------------|
