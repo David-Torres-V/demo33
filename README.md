@@ -1,6 +1,6 @@
 | User tasks                                      || Consumidor                      || Cliente                         |
 |-------------------|------------|-------------|------------|-------------|
-|                  | Frecuencia | Importancia | Frecuencia | Importancia |
+|                                                 | Frecuencia | Importancia | Frecuencia | Importancia |
 |-------------------------------------------------|------------|-------------|------------|-------------|
 | Buscar precios bajos del plato deseado          | always     | high        | rare       | low         |
 | Buscar plato por tipo de comida                 | usually    | medium      | rare       | low         |
